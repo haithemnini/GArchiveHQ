@@ -10,8 +10,8 @@ Time spent: **30** Day spent in total
 
 The following **required** functionality is complete:
 
-* [ ] Database is encrypted to keep data confidential.
-* [ ] User can have password and username
+*  Database is encrypted to keep data confidential.
+*  User can have password and username
 
 ## Video Walkthrough
 
