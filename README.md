@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/haithemnini/GArchiveHQ/blob/main/VIEWS/IMG/Video/GArchiveHQ.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.dropbox.com/s/iwuvhusny40yvxp/GArchiveHQ.mp4?dl=0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
