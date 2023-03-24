@@ -1,6 +1,6 @@
 # Pre-work - *GArchiveHQ*
 
-**GArchiveHQ* iGArchiveHQ is the archive management software of the National Institute of Skikda.
+**GArchiveHQ* GArchiveHQ is the archive management software of the National Institute of Skikda.
 
 Submitted by: **Haithem Nini**
 
@@ -17,7 +17,7 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/haithemnini/GArchiveHQ/blob/main/VIEWS/IMG/Video/GArchiveHQ.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
