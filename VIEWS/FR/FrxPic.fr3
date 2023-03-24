@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="6.6.15" DataSet="Db_FrxNotif" DataSetName="FrxNotif" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="167935" PreviewOptions.Zoom="1" PrintOptions.Printer="الإفتراضي" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="44832.8889959259" ReportOptions.Description.Text="" ReportOptions.LastChange="44834.8838393866" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end.">
+  <Datasets>
+    <item DataSet="Db_FrxNotif" DataSetName="FrxNotif"/>
+  </Datasets>
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="210" PaperHeight="297" PaperSize="9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" Frame.Typ="0" MirrorMode="0" HGuides.Text="" VGuides.Text="">
+    <TfrxPictureView Name="Picture1" Align="baClient" AllowVectorExport="True" Left="0" Top="0" Width="718.1107" Height="1046.92981" DataField="Pic" DataSet="Db_FrxNotif" DataSetName="FrxNotif" Frame.Typ="0" HightQuality="False" Transparent="False" TransparentColor="16777215"/>
+  </TfrxReportPage>
+</TfrxReport>
