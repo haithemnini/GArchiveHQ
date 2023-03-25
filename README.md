@@ -23,7 +23,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Username and password is: admin
+Username and password is: **admin**
 
 The challenge was to complete a program in 30 days and it was completed in the specified code.
 
